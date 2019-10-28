@@ -5,11 +5,11 @@
 ### JavaScript Games 
 
 [Memory Game](/sample_page)
-<img src="memory.png"/>
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/memory.png"/>
 
 ---
 [Arcade Game](/pdf/sample_presentation.pdf)
-<img src="Arcade.png"/>
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/Arcade.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
