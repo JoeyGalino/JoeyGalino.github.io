@@ -5,22 +5,19 @@
 ### Web Projects
 
 [Memory Game](/sample_page)
-<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/memory.png">
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/memory.png"/>
 
 ---
 [Arcade Game](/pdf/sample_presentation.pdf)
-<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/Arcade.png">
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/Arcade.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[React Tic Tac Toe](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-### Category Name 2
+### Misc Projects
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
