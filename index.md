@@ -5,7 +5,7 @@
 ### JavaScript Games 
 
 [Memory Game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/499.JPG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
