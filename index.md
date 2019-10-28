@@ -14,7 +14,9 @@
 ---
 [React Tic Tac Toe](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
+
 ### Misc Projects
 - [Project 1 Title](http://example.com/)
 
