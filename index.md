@@ -2,7 +2,7 @@
 
 ---
 
-### JavaScript Games 
+### Web Projects
 
 [Memory Game](/sample_page)
 <img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/memory.png"/>
@@ -12,18 +12,8 @@
 <img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/Arcade.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[React Tic Tac Toe Game](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
