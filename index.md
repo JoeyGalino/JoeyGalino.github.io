@@ -5,11 +5,11 @@
 ### Web Projects
 
 [Memory Game](/sample_page)
-<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/memory.png"/>
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/memory.png?raw=true"/>
 
 ---
 [Arcade Game](/pdf/sample_presentation.pdf)
-<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/Arcade.png"/>
+<img src="https://github.com/JoeyGalino/JoeyGalino.github.io/blob/master/Arcade.png?raw=true"/>
 
 ---
 [React Tic Tac Toe](http://example.com/)
