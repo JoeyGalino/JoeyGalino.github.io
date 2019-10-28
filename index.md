@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### JavaScript Games 
 
-[Project 1 Title](/sample_page)
+[Memory Game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
